@@ -1,0 +1,6 @@
+class simple {
+public:
+
+private:
+
+}
